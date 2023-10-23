@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sparsh Verma</h1>
-<h3 align="center">A passionate web developer and a programmer.</h3>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<h3 align="center">A passionate Backend dev.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sparsh-18](https://github.com/sparsh-18)
 
 - 📫 How to reach me **sparsh.verma787@gmail.com**
 
 - ⚡ Fun fact **I am super sarcastic**
+
+[![An image of @sparsh18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sparsh18)](https://holopin.io/@sparsh18)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
